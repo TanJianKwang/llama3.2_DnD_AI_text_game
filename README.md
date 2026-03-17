@@ -10,7 +10,12 @@ git clone https://github.com/TanJianKwang/llama3.2_DnD_AI_text_game.git
 Conda setup
 ```
 conda create -n DnD python==3.12.9
+```
+```
 conda activate DnD
+```
+```
+pip install -r requirements.txt
 ```
 
 Ollama setup
